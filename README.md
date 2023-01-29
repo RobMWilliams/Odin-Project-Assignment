@@ -1,4 +1,4 @@
-# Odin Project- Landing Page Assignment
+# Odin Project - Landing Page Assignment
 This is an assignment that was given by the Odin Project. 
 
 The aim is to create a landing page website using the values that they have given. 
