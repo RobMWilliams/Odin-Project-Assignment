@@ -174,7 +174,7 @@ a {
     background: #3882F6;
     border-radius: 5px;
     padding: 50px;
-    padding-inline: 200px;
+    padding-inline: 150px;
     color: #F9FAF8;
 }
 
@@ -206,3 +206,12 @@ a {
     font-weight: 900;
 }
 
+.footer {
+    background: #1F2937;
+    width: 100%;
+    padding: 50px;
+    color: #E5E7EB;
+    text-align: center;
+    font-weight: 300;
+    
+}
